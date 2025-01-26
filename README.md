@@ -1,6 +1,6 @@
 # Coursera Learning
 
-## Project for Course course - HTML, CSS, and Javascript for Web Developers
+## Project for Coursera course
 
   1. Learing the CSS concepts in developing responsive web page on variety devices (desktop, tablet, phone, etc.)
   2. Learning about conducting responsive web page with Javascript.
